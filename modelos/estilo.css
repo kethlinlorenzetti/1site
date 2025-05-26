@@ -1,0 +1,68 @@
+table tr td{
+	border: 1px solid black; /* borda da tabela */
+}
+
+table{
+	background-color: #E0FFFF;
+	width: 80%; /* largura da tabela */
+	margin: auto; /* alinhamento centralizado da tabela */
+}
+
+button {
+	color: #34e8eb; /* altera a cor da fonte */
+	background-color: #33166b; /* altera a cor de fundo do botão */
+	font-size: 20px; /* tamanho da fonte */
+	border-radius: 20px 50px 5px 90px; /* arredonda os cantos do botão */
+	
+	margin-top: 50px; /* margem no topo */
+	margin-bottom: 50px; /* margem inferior */
+	margin-left: 20px; /* margem a esquerda */
+	margin-right: 50px; /* margem a direita */
+	/* margin: 50px 50px 20px 50px; resumo das 4 tags acima*/
+
+	padding-top: 20px; /* margem interna topo */
+	padding-bottom: 20px; /* margem interna inferior */
+	padding-left: 20px; /* margem interna esquerda */
+	padding-right: 20px; /* margem interna direita */
+}
+
+h1{
+	color: #3275a8;
+	font-size: 50px;
+	font-family: "Playpen Sans Arabic", cursive;
+}
+
+p{
+	color: #3275a8;
+	font-size: 30px;
+	text-align: justify;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+td{
+	vertical-align: top;
+}
+
+.banner img{
+	width: 1150px ;
+}
+
+.propagandas img{
+	width: 300px;
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px; /* arredondar os cantos da img */
+	/* transform: rotate(22deg);  girar a img em graus */
+}
+
+.conteúdo h1{
+
+}
+
+.conteúdo h2{
+
+}
+
